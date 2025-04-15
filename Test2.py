@@ -6,7 +6,7 @@ if cuisinType == "Indian" :
     print("Response 4: Thai")
     print("Response 5: Chine")
     print("Response 6: Marathi")
-    print("Response 7: Punjabi")
+    print ("Response 7: Tamil")
 else:
     print("Looks like you are not Indian")
     continent=input("which continents you belong to")
