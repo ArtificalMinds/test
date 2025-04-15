@@ -10,6 +10,6 @@ if cuisinType == "Indian" :
 else:
     print("Looks like you are not Indian")
     continent=input("which continents you belong to")
-    if continent=='Aus'
+    if continent=='Aus' and cuisinType=="AusNative":
         print("I am from Aus")
         print("I will prefer Australian food")
