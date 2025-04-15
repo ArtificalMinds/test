@@ -10,3 +10,4 @@ else:
     continent=input("which continents you belong to")
     if continent=='Aus'
         print("I am from Aus")
+        print("I will prefer Australian food")
