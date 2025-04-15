@@ -1,5 +1,5 @@
 cuisinType=input("Which Cuisin you prefer? ")
-if cuisinType == "Asian" and "Indian" :
+if cuisinType == "ASIAN" and "Indian" :
     print("Response 1: Indian")
     print("Response 2: Italian")
     print("Response3: Maxican")
@@ -10,6 +10,6 @@ if cuisinType == "Asian" and "Indian" :
 else:
     print("Looks like you are not Indian")
     continent=input("which continents you belong to")
-    if continent=='Aus' and cuisinType== 'NativeAus'
+    if continent=='AUS' and cuisinType== 'NativeAus'
         print("I am from Aus")
         print("I will prefer Australian food")
